@@ -1,0 +1,66 @@
+.lineThrough{
+    text-decoration: line-through;
+    transition: opacity;
+    transition-duration: 1s;
+    opacity: 0.4;
+}
+
+li{
+    list-style: none;
+}
+
+
+.none{
+    display: none;
+}
+
+
+#container{
+    width: 25%;
+    height: auto;
+    margin: 30px auto;
+    background-color: rgba(59, 145, 216, 0.075);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#h1{
+    width: 100%;
+}
+
+
+#input{
+    width: 97%;
+    border-radius: 4px;
+    height: 20px;
+}
+
+
+span{
+    float: right;
+    padding-right: 30px;
+}
+
+
+body{
+    background-image:linear-gradient(to right , #89b0ae , #e8e8e4 );
+}
+
+    
+
+i{
+    margin-right: 14px;
+    margin-left: 5px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+
+li{
+    border: 5px ridge lightslategrey;
+    margin-top:3px;
+    margin-right: 40px;
+    background-color: lightyellow;
+    font-size: 1.1rem;
+    
+}
